@@ -45,9 +45,7 @@ Expense-Tracker/
 
 ---
 
-## 📸 Screenshot
 
-(Add your project screenshot here)
 
 ---
 
